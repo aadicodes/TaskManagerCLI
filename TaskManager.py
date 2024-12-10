@@ -1,12 +1,3 @@
-# Five steps to run below python code 
-# 1. Save all this content into a file called TaskManager.py
-# 2. Make sure python 3.12.x is installed on the computer
-# 3. Open powershell or command-line window or terminal window
-# 4. Go to the folder where the file “TaskManager.py” is stored.
-# 5. Type below command and follow instructions shown by the program
-# python TaskManager.py
-
-
 import json
 import time
 import util
